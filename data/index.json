@@ -1,0 +1,52 @@
+
+{
+
+    "results": [
+    {
+    
+    "productName": "Vip Ticket",
+    "Category": "Tickets",
+    "Description": "Buy a Vip ticket to get access to exclusive benefits that only you the holder can benefit from.",
+    "Amount": 4000.00,
+    "img_url":"https://richtershotline.github.io/Pimages/Images/ticket.webp"
+    
+    },
+    {
+    
+    "productName": "Backstage Pass",
+    "Category": "Tickets",
+    "Description": "Buy a backstage pass to get exclusive access to the backstage area, meet the bands and DJs and make some new friends.",
+    "Amount": 2000.00,
+    "img_url":"https://richtershotline.github.io/Pimages/Images/ticket.webp"
+    
+    },
+    {
+    
+    "productName": "Midnight Ticket",
+    "Category": "Tickets",
+    "Description": "This will allow you access to the club's main floor, bar and dance floor",
+    "Amount": 1000.00,
+    "img_url":"https://richtershotline.github.io/Pimages/Images/ticket.webp"
+    
+    },
+    {
+    
+    "productName": "Vistor's Pass",
+    "Category": "Tickets",
+    "Description": "Gift this pass to a friend (only available if you're in our vip subscriber program) and they'll be able to join you in the vip area for a night.",
+    "Amount": 800.00,
+    "img_url":"https://richtershotline.github.io/Pimages/Images/ticket.webp"
+    
+    },
+    {
+    "productName": "Midnight Subscription",
+    "Category": "Subscription",
+    "Description": "Become a Midnight Animal with this subscription. A monthly fee will be needed allows access to main floor, dance floor and bar with no need to buy tickets every night.",
+    "Amount": 1200.00,
+    "img_url":"https://richtershotline.github.io/Pimages/Images/ticket.webp"
+    
+    }
+    
+    ]
+    
+    }
